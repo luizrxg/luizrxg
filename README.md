@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <h3 align="center">A web developer from Brazil</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
