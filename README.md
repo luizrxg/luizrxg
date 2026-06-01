@@ -43,5 +43,3 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizrxg&show_icons=true&locale=en&layout=compact" alt="luizrxg" /></p>
